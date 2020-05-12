@@ -17,4 +17,6 @@ func Int(arr []int, callback CallbackInt) []int {
 			filteredArr = append(filteredArr, element)
 		}
 	}
+
+	return filteredArr
 }
