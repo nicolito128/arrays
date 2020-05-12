@@ -13,7 +13,7 @@ func main() {
 	fmt.Println(nums)
 	fmt.Println(nums2)
 
-	fmt.Printf("/*******/\n")
+	fmt.Printf("\n/*******/\n\n")
 
 	str := []string{"wallace", "dog", "carl", "earth"}
 	fmt.Println(each.String(str, upper))
